@@ -1,0 +1,1 @@
+# nuxtJs_crud
